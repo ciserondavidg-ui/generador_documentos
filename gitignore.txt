@@ -1,9 +1,0 @@
-.env
-.env.*
-*.docx
-*.pdf
-*.csv
-*.xlsx
-node_modules/
-.DS_Store
-__pycache__/
